@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import sysa
+import sys
 sys.path.append('utilities')
 import os
 import data_utils
